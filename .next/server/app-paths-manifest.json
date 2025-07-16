@@ -1,7 +1,0 @@
-{
-  "/opengraph-image.png/route": "app/opengraph-image.png/route.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/route": "app/api/route.js",
-  "/page": "app/page.js"
-}
